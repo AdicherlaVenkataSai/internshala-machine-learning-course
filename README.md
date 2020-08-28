@@ -1,4 +1,2 @@
-# InternshalaML
-I have undergone Intershala Machine learning course, and successfully completed it.
-In this repo, i have the practise notes of mine, for downloaded content of course .
-link: https://drive.google.com/open?id=1ctpVVgISwfM7tsjUZqc5Z4ilx7qFDx8h
+# Internshala Machine Learning Course   
+This repo holds the practise notes of mine | [complete content](https://drive.google.com/drive/folders/1l_XTTV8IQ8jfRkjAkylvDdxaNjto9kal?usp=sharing)
